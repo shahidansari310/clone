@@ -33,7 +33,7 @@ const Main = () => {
             </div>
             <div className="main-bottom">
                 <div className="search">
-                    <input type="text" placeholder="Enter yout prompt here..." />
+                    <input type="text" placeholder="Enter yout prompt here..." className='b'/>
                     <div className='flex'>
                         <img src={assets.gallery_icon} alt="" />
                         <img src={assets.mic_icon} alt="" />

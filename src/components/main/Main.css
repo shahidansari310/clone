@@ -78,7 +78,7 @@
 }
 .search{
     display: flex;
-    font-size: 17px;
+    /* font-size: 17px; */
     align-items: center;
     justify-content: space-between;
     gap: 20px;
@@ -89,4 +89,11 @@
 .search img{
     width:24px;
     cursor: pointer;
+}
+.b{
+    border: none;
+    outline: none;
+    width: 100%;      
+    resize: none;     
+    
 }
